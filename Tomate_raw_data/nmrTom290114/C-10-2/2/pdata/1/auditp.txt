@@ -1,0 +1,31 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Administrator
+$$ C:/UsuariosRMN/Noviembre2013/data/PrAgulles/nmr/C-10-2/2/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2014-01-08 12:40:26.546 -0500>,<Administrator>,<AV400>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2014-01-08 12:36:16.750 -0500,
+	POWCHK disabled, PULCHK disabled,
+       configuration hash MD5:
+       8E E1 04 59 B4 15 06 F4 A0 2D 49 D0 74 8D FB 19
+       data hash MD5: 32K
+       AD D7 09 E3 29 A6 1F D2 72 5E 8A 6B 3A 77 40 FC>)
+(   2,<2014-01-08 12:44:33.921 -0500>,<Administrator>,<AV400>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 32K 
+       data hash MD5: 32K
+       7B 0E 55 8D B5 6E 03 63 F1 7C CD F5 48 B7 58 3A>)
+(   3,<2014-01-08 12:44:35.609 -0500>,<Administrator>,<AV400>,<proc1d>,<TOPSPIN 2.1>,
+      <apk 
+       data hash MD5: 32K
+       A2 E3 8D ED 0B BD 64 B5 4E DA 25 01 FE 95 DE 6A>)
+(   4,<2014-01-08 12:44:36.187 -0500>,<Administrator>,<AV400>,<proc1d>,<TOPSPIN 2.1>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       D4 80 8A AA 42 95 BA D7 E5 28 39 75 1F 68 89 E9>)
+##END=
+
+$$ hash MD5
+$$ 90 C3 E0 92 E8 03 57 D8 32 B3 D5 DA B6 B3 DC 88

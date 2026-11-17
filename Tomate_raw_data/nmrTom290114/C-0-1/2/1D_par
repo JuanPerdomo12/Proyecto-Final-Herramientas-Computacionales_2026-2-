@@ -1,0 +1,21 @@
+## SpinWorks 2.5.5 1D parameters for: D:\Curro\Unal\Investigación\NMR_tomatoes\29_Enero_2014_Pr_Agulles_76_SPC\C-0-1\2\
+## 16:34:52   02/03/14
+title= p3919gp
+size= 32768
+sf=   400.13000000
+scale_factor= 1.000000
+vscale=      0.0000011141
+ymax= 194030092.000000
+data_max= 194030092
+freq1= 5882.750256
+freq2= -2130.032682
+integ_scale=      0.0000002000
+integ_cal= 0.000000
+roi1_freq1= 5000.000000
+roi1_freq2= 0.000000
+roi2_freq1= 5000.000000
+roi2_freq2= 0.000000
+roi3_freq1= 5000.000000
+roi3_freq2= 0.000000
+phase0= 0.000000
+phase1= 0.000000

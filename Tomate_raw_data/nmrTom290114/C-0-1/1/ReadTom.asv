@@ -1,0 +1,4 @@
+espec=readbruker(D:\Curro\Unal\Investigación\NMR_tomatoes\29_Enero_2014_Pr_Agulles_76_SPC\C-0-1\1\fid);
+fid=espec.dat;
+ppm=espec.
+plot(fid)

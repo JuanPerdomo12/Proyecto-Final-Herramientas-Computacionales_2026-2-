@@ -1,0 +1,17 @@
+##TITLE= Parameter file, TOPSPIN		Version 2.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Administrator
+$$ 2013-12-10 19:44:40.796 -0500  Administrator@AV400
+$$ C:/UsuariosRMN/Noviembre2013/data/PrAgulles/nmr/C-8-2/1/scon2
+$$ process C:\Bruker\TOPSPIN2.1\prog\mod\go.exe
+##$BLKTR= (0..15)
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+##$DE1= 4.5
+##$DEADC= 0.5
+##$DEPA= 4.5
+##$DERX= 1.5
+##$FILCOR= 0
+##END=

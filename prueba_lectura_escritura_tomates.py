@@ -2,8 +2,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pydicom
 
-rut_arch = "C:\\Users\\jujo1\\OneDrive\\Documentos\\Proyecto-Final-Herramientas-Computacionales_2026-2-\\Tomate\\PvMRIm001"
-ds = pydicom.dcmread(rut_arch)
+#rut_arch = "C:\\Users\\jujo1\\OneDrive\\Documentos\\Proyecto-Final-Herramientas-Computacionales_2026-2-\\Tomate\\PvMRIm001"
+rut_arch_sala = "/home/juperdomof/Proyecto-Final-Herramientas-Computacionales-2026-II/Tomate/PvMRIm032"
+#ds = pydicom.dcmread(rut_arch)
+ds = pydicom.dcmread(rut_arch_sala)
 
 imagen = ds.pixel_array
 

@@ -1,0 +1,17 @@
+##TITLE= Parameter file, TOPSPIN		Version 2.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Administrator
+$$ 2013-11-15 20:20:31.937 -0500  Administrator@AV400
+$$ C:/UsuariosRMN/Noviembre2013/data/PrAgulles/nmr/C-2-3/1/pdata/1/outd
+$$ process C:\Bruker\TOPSPIN2.1\prog\mod\edparproc.exe
+##$CURPLOT= <hp LaserJet 1320 PCL 6>
+##$CURPRIN= <$hp LaserJet 1320 PCL 6>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##$SURQMSG= 1
+##END=
