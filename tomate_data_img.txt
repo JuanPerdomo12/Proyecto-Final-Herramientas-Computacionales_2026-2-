@@ -1,0 +1,116 @@
+Archivo      | TE (ms)    | TR (ms)    | Slice (mm)   | Fecha/Hora        
+------------------------------------------------------------------------
+PvMRIm001    | 10         | 3000       | -6.395215311 | 123919            
+PvMRIm002    | 20         | 3000       | -6.395215311 | 123919            
+PvMRIm003    | 30         | 3000       | -6.395215311 | 123919            
+PvMRIm004    | 40         | 3000       | -6.395215311 | 123919            
+PvMRIm005    | 50         | 3000       | -6.395215311 | 123919            
+PvMRIm006    | 60         | 3000       | -6.395215311 | 123919            
+PvMRIm007    | 70         | 3000       | -6.395215311 | 123919            
+PvMRIm008    | 80         | 3000       | -6.395215311 | 123919            
+PvMRIm009    | 90         | 3000       | -6.395215311 | 123919            
+PvMRIm010    | 100        | 3000       | -6.395215311 | 123919            
+PvMRIm011    | 110        | 3000       | -6.395215311 | 123919            
+PvMRIm012    | 120        | 3000       | -6.395215311 | 123919            
+PvMRIm013    | 130        | 3000       | -6.395215311 | 123919            
+PvMRIm014    | 140        | 3000       | -6.395215311 | 123919            
+PvMRIm015    | 150        | 3000       | -6.395215311 | 123919            
+PvMRIm016    | 160        | 3000       | -6.395215311 | 123919            
+PvMRIm017    | 170        | 3000       | -6.395215311 | 123919            
+PvMRIm018    | 180        | 3000       | -6.395215311 | 123919            
+PvMRIm019    | 190        | 3000       | -6.395215311 | 123919            
+PvMRIm020    | 200        | 3000       | -6.395215311 | 123919            
+PvMRIm021    | 210        | 3000       | -6.395215311 | 123919            
+PvMRIm022    | 220        | 3000       | -6.395215311 | 123919            
+PvMRIm023    | 230        | 3000       | -6.395215311 | 123919            
+PvMRIm024    | 240        | 3000       | -6.395215311 | 123919            
+PvMRIm025    | 250        | 3000       | -6.395215311 | 123919            
+PvMRIm026    | 260        | 3000       | -6.395215311 | 123919            
+PvMRIm027    | 270        | 3000       | -6.395215311 | 123919            
+PvMRIm028    | 280        | 3000       | -6.395215311 | 123919            
+PvMRIm029    | 290        | 3000       | -6.395215311 | 123919            
+PvMRIm030    | 300        | 3000       | -6.395215311 | 123919            
+PvMRIm031    | 310        | 3000       | -6.395215311 | 123919            
+PvMRIm032    | 320        | 3000       | -6.395215311 | 123919            
+
+--- Metadatos completos de PvMRIm001 ---
+Dataset.file_meta -------------------------------
+(0002,0000) File Meta Information Group Length  UL: 192
+(0002,0001) File Meta Information Version       OB: b'\x00\x01'
+(0002,0002) Media Storage SOP Class UID         UI: MR Image Storage
+(0002,0003) Media Storage SOP Instance UID      UI: 2.16.756.5.5.100.346822144.23817.1394106257.4.0
+(0002,0010) Transfer Syntax UID                 UI: Explicit VR Little Endian
+(0002,0012) Implementation Class UID            UI: 1.2.276.0.7230010.3.0.3.5.4
+(0002,0013) Implementation Version Name         SH: 'OFFIS_DCMTK_354'
+-------------------------------------------------
+(0008,0008) Image Type                          CS: ['ORIGINAL', 'PRIMARY', 'OTHER']
+(0008,0012) Instance Creation Date              DA: '20140325'
+(0008,0013) Instance Creation Time              TM: '153440'
+(0008,0016) SOP Class UID                       UI: MR Image Storage
+(0008,0018) SOP Instance UID                    UI: 2.16.756.5.5.100.346822144.23817.1394106257.4.0
+(0008,0020) Study Date                          DA: '20140306'
+(0008,0022) Acquisition Date                    DA: '20140306'
+(0008,0030) Study Time                          TM: '122552'
+(0008,0032) Acquisition Time                    TM: '123919'
+(0008,0050) Accession Number                    SH: ''
+(0008,0060) Modality                            CS: 'MR'
+(0008,0070) Manufacturer                        LO: 'Bruker BioSpin MRI GmbH'
+(0008,0080) Institution Name                    LO: 'BIONAND'
+(0008,0090) Referring Physician's Name          PN: ''
+(0008,1010) Station Name                        SH: 'Biospec 94/20'
+(0010,0010) Patient's Name                      PN: 'MLGM'
+(0010,0020) Patient ID                          LO: 'MLGM_140306_TOMATE_1'
+(0010,0030) Patient's Birth Date                DA: ''
+(0010,0040) Patient's Sex                       CS: 'F'
+(0010,1030) Patient's Weight                    DS: '5'
+(0018,0020) Scanning Sequence                   CS: 'RM'
+(0018,0021) Sequence Variant                    CS: 'NONE'
+(0018,0022) Scan Options                        CS: ''
+(0018,0023) MR Acquisition Type                 CS: '2D'
+(0018,0024) Sequence Name                       SH: 'MSME (pvm)'
+(0018,0050) Slice Thickness                     DS: '3'
+(0018,0080) Repetition Time                     DS: '3000'
+(0018,0081) Echo Time                           DS: '10'
+(0018,0083) Number of Averages                  DS: '1'
+(0018,0084) Imaging Frequency                   DS: '400.3312599'
+(0018,0085) Imaged Nucleus                      SH: '1H'
+(0018,0088) Spacing Between Slices              DS: '4'
+(0018,0089) Number of Phase Encoding Steps      IS: '96'
+(0018,0091) Echo Train Length                   IS: '1'
+(0018,0094) Percent Phase Field of View         DS: '100'
+(0018,0095) Pixel Bandwidth                     DS: '513.9802632'
+(0018,1020) Software Versions                   LO: 'ParaVision 5.1'
+(0018,1030) Protocol Name                       LO: 'MSME-T2-map'
+(0018,1310) Acquisition Matrix                  US: [96, 0, 0, 128]
+(0018,1312) In-plane Phase Encoding Direction   CS: 'COL'
+(0018,1314) Flip Angle                          DS: '180'
+(0018,5100) Patient Position                    CS: 'HFS'
+(0020,000D) Study Instance UID                  UI: 2.16.756.5.5.100.346822144.23659.1394105152.1330
+(0020,000E) Series Instance UID                 UI: 2.16.756.5.5.100.346822144.23817.1394106257.4
+(0020,0010) Study ID                            SH: 'MLGM, TOMATE 1'
+(0020,0011) Series Number                       IS: '262145'
+(0020,0012) Acquisition Number                  IS: '1'
+(0020,0013) Instance Number                     IS: '1'
+(0020,0032) Image Position (Patient)            DS: [-35, -35, -6.395215311]
+(0020,0037) Image Orientation (Patient)         DS: [1, 0, 0, 0, 1, 0]
+(0020,0052) Frame of Reference UID              UI: 2.16.756.5.5.100.346822144.23817.1394106257.4.6.15.18
+(0020,1002) Images in Acquisition               IS: '160'
+(0020,1040) Position Reference Indicator        LO: ''
+(0020,1041) Slice Location                      DS: '-6.395215311'
+(0028,0002) Samples per Pixel                   US: 1
+(0028,0004) Photometric Interpretation          CS: 'MONOCHROME2'
+(0028,0010) Rows                                US: 128
+(0028,0011) Columns                             US: 128
+(0028,0030) Pixel Spacing                       DS: [0.546875, 0.546875]
+(0028,0100) Bits Allocated                      US: 16
+(0028,0101) Bits Stored                         US: 16
+(0028,0102) High Bit                            US: 15
+(0028,0103) Pixel Representation                US: 1
+(0028,0106) Smallest Image Pixel Value          US: 0
+(0028,0107) Largest Image Pixel Value           US: 32766
+(0028,1050) Window Center                       DS: '16383.5'
+(0028,1051) Window Width                        DS: '32767'
+(0028,1052) Rescale Intercept                   DS: '0'
+(0028,1053) Rescale Slope                       DS: '33.64326872'
+(0028,1054) Rescale Type                        LO: 'US'
+(0028,1055) Window Center & Width Explanation   LO: 'MinMax'

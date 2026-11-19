@@ -2,14 +2,12 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pydicom
 
-#rut_arch = "C:\\Users\\jujo1\\OneDrive\\Documentos\\Proyecto-Final-Herramientas-Computacionales_2026-2-\\Tomate\\PvMRIm001"
-rut_arch_sala = "/home/juperdomof/Proyecto-Final-Herramientas-Computacionales-2026-II/Tomate/PvMRIm032"
-#ds = pydicom.dcmread(rut_arch)
-ds = pydicom.dcmread(rut_arch_sala)
+rut_arch = "C:\\Users\\jujo1\\OneDrive\\Documentos\\Proyecto-Final-Herramientas-Computacionales_2026-2-\\Tomate_corte_tiempos\\PvMRIm032"
+#rut_arch_sala = "/home/juperdomof/Proyecto-Final-Herramientas-Computacionales-2026-II/Tomate/PvMRIm032"
+ds = pydicom.dcmread(rut_arch)
+#ds = pydicom.dcmread(rut_arch_sala)
 
 imagen = ds.pixel_array
-
-print(f"{imagen.shape}, {imagen.dtype}")
 
 f_imagen = np.fft.fft2(imagen)
 f_shift = np.fft.fftshift(f_imagen)
