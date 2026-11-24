@@ -36,7 +36,7 @@ def leer_acqus(ruta_carpeta):
 
 ruta_exp = (
     r"C:\Users\jujo1\OneDrive\Documentos\Proyecto-Final-Herramientas-Computacionales_2026-2-"
-    r"\Tomate_raw_data\nmrTom290114\C-0-1\2"
+    r"\Tomate_raw_data\nmrTom290114\C-0-1\1"
 )
 
 p = leer_acqus(ruta_exp)
