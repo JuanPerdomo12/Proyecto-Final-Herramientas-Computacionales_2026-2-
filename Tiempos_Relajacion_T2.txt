@@ -1,0 +1,6 @@
+   TIEMPOS DE RELAJACION T2
+
+Agua (Referencia): T2 = 1123.71 ms 
+Gel locular (Semillas): T2 = 132.52 ms 
+Pericarpio (Pared externa): T2 = 115.17 ms 
+Placenta (Centro): T2 = 53.59 ms
