@@ -66,7 +66,7 @@ def leer_procs(ruta_pdata):
 
 ruta_proyecto = os.path.dirname(os.path.abspath(__file__))
 ruta_exp = os.path.join(
-    ruta_proyecto, "Tomate_raw_data", "nmrTom290114", "C-0-1", "1" #Aqui se selecciona el corte (C-#-#) y el tipo de adquisicion (1: Calibracion, 2: Experimento filtrado)
+    ruta_proyecto, "Tomate_raw_data", "nmrTom290114", "C-0-1", "2" #Aqui se selecciona el corte (C-#-#) y el tipo de adquisicion (1: Calibracion, 2: Experimento filtrado)
 )
 
 p = leer_acqus(ruta_exp)
